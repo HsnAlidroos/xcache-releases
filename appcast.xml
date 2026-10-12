@@ -3,6 +3,25 @@
     <channel>
         <title>Xcache</title>
         <item>
+            <title>1.7.3</title>
+            <pubDate>Mon, 12 Oct 2026 13:50:43 +0300</pubDate>
+            <link>https://github.com/HsnAlidroos/xcache-releases/releases</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Consistent app icon</h2>
+<ul>
+<li>The update window, Finder lists, and Spotlight now show the same Xcache icon as the Dock.</li>
+</ul>
+<h2 dir="rtl">أيقونة موحّدة للتطبيق</h2>
+<ul dir="rtl">
+<li>نافذة التحديث وقوائم Finder و Spotlight تعرض الآن نفس أيقونة Xcache الظاهرة في الـ Dock.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/HsnAlidroos/xcache-releases/releases/download/v1.7.3/Xcache-1.7.3-meta.dmg" length="4458408" type="application/octet-stream" sparkle:edSignature="w+aSmkasNO9Xh0/T9saaMSM2+kXQ0Lk60IbJ22pMq/zNajCZMar97Ytmy9nIRxlv70TzcRtkVp3Q+qrJCxJjAg=="/>
+        </item>
+        <item>
             <title>1.7.2</title>
             <pubDate>Mon, 12 Oct 2026 13:43:16 +0300</pubDate>
             <link>https://github.com/HsnAlidroos/xcache-releases/releases</link>
