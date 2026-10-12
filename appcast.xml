@@ -3,6 +3,25 @@
     <channel>
         <title>Xcache</title>
         <item>
+            <title>1.7.2</title>
+            <pubDate>Mon, 12 Oct 2026 13:43:16 +0300</pubDate>
+            <link>https://github.com/HsnAlidroos/xcache-releases/releases</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Updates menu</h2>
+<ul>
+<li>A new Updates menu in the menu bar: check for updates, open What's New, and turn automatic checks on or off.</li>
+</ul>
+<h2 dir="rtl">قائمة التحديثات</h2>
+<ul dir="rtl">
+<li>قائمة جديدة باسم التحديثات في شريط القوائم: تحقق من التحديثات، وافتح نافذة ما الجديد، وشغّل التحقق التلقائي أو أوقفه.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/HsnAlidroos/xcache-releases/releases/download/v1.7.2/Xcache-1.7.2-meta.dmg" length="4454012" type="application/octet-stream" sparkle:edSignature="e9zQU7dBzHknVbG+GKP/MCsMwFtO9U4ojOjphDKTm4s9Lr2G6sqtwa1hxXym/vXmAvC+Y9i8qAbP9tIwZcOsAg=="/>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Mon, 12 Oct 2026 13:31:33 +0300</pubDate>
             <link>https://github.com/HsnAlidroos/xcache-releases/releases</link>
