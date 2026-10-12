@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Xcache</title>
+        <item>
+            <title>1.7.1</title>
+            <pubDate>Mon, 12 Oct 2026 13:31:33 +0300</pubDate>
+            <link>https://github.com/HsnAlidroos/xcache-releases/releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Updates inside the app</h2>
+<ul>
+<li>Xcache checks for new versions every day and tells you when one is ready. Download and install it in one click, or check any time from Xcache → Check for Updates.</li>
+<li>After an update, a What's New window shows what changed. Open it again from About.</li>
+</ul>
+<h2 dir="rtl">التحديثات من داخل التطبيق</h2>
+<ul dir="rtl">
+<li>يتحقق Xcache يومياً من وجود نسخة جديدة ويخبرك عندما تكون جاهزة. نزّلها وثبّتها بضغطة واحدة، أو تحقق في أي وقت من Xcache ← التحقق من التحديثات.</li>
+<li>بعد كل تحديث تظهر نافذة "ما الجديد" لتعرض ما تغيّر، ويمكنك فتحها مرة أخرى من صفحة حول.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/HsnAlidroos/xcache-releases/releases/download/v1.7.1/Xcache-1.7.1-meta.dmg" length="4452157" type="application/octet-stream" sparkle:edSignature="MqE2+FrQ5pnIbGd7LQ1pCdXo7TrW8Bg3szAJG6moSP8mtq+NOnnCafUbv0yirpulAdHY4HONtprSASe0aVvqBQ=="/>
+        </item>
+    </channel>
+</rss>
